@@ -11,6 +11,7 @@ $(document).ready(function(){
 
     
     $('#table-1').addClass('hide');
+    $('#table-1').removeClass('hide');
     $('#table-2').addClass('hide');
 
     $('.nav-button:nth-child(1)').on('click', function(){
